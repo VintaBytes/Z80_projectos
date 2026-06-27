@@ -2,10 +2,10 @@
 
 ## Clock, Reset y ejecución de NOPs con Arduino Mega
 
-![Estado](https://img.shields.io/badge/estado-en%20pruebas-blue)
 ![CPU](https://img.shields.io/badge/CPU-Zilog%20Z80-green)
 ![Arduino](https://img.shields.io/badge/Arduino-Mega%202560-blue)
 ![Voltaje](https://img.shields.io/badge/l%C3%B3gica-5V-orange)
+![Estado](https://img.shields.io/badge/estado-en%20pruebas-blue)
 
 ## Objetivo de esta etapa
 
