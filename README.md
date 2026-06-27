@@ -39,7 +39,7 @@ z80-compu-basica/
 
 |  Nº | Proyecto                                                           | Descripción                                                                                                                                                                    | Estado    |
 | --: | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| 001 | [Mega Z80 Clock Reset NOP](projects/001-mega-z80-clock-reset-nop/) | Primer experimento con Z80 real: Arduino Mega genera clock y reset, fuerza `00h` en el bus de datos para ejecutar `NOPs` y permite verificar señales básicas con osciloscopio. | Funcional |
+| 001 | [Mega Z80 Clock Reset NOP](projects/001_MEGA_Clock_Reset_NOP) | Primer experimento con Z80 real: Arduino Mega genera clock y reset, fuerza `00h` en el bus de datos para ejecutar `NOPs` y permite verificar señales básicas con osciloscopio. | Funcional |
 
 ## Componentes principales
 
