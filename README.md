@@ -50,6 +50,7 @@ z80-compu-basica/
 |  Nº | Proyecto                                                           | Descripción                                                                                                                                                                    | Estado    |
 | --: | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
 | 001 | [Mega Z80 Clock Reset NOP](projects/001_MEGA_Clock_Reset_NOP) | Primer experimento con Z80 real: Arduino Mega genera clock y reset, fuerza `00h` en el bus de datos para ejecutar `NOPs` y permite verificar señales básicas con osciloscopio. | Funcional |
+| 003 | [Mega Z80_Clock Reset JUMP](projects/0031_Z80_MEGA_Clock_Reset_NOP) | Arduino Mega deja de entregar un byte fijo y pasa a funcionar como una ROM mínima de 8 bytes. Para hacerlo, lee las líneas bajas del bus de direcciones del Z80 (A0, A1 y A2) y entrega en el bus de datos un byte distinto según la dirección solicitada. | Funcional |
 
 ## Componentes principales
 
