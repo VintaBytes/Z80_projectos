@@ -1,5 +1,10 @@
 # Z80 Computadora Básica
 
+![CPU](https://img.shields.io/badge/CPU-Zilog%20Z80-green)
+![Arduino](https://img.shields.io/badge/Arduino-Mega%202560-blue)
+![Voltaje](https://img.shields.io/badge/l%C3%B3gica-5V-orange)
+![Estado](https://img.shields.io/badge/estado-en%20pruebas-blue)
+
 Repositorio personal de proyectos, pruebas y documentación para diseñar y construir una computadora básica basada en el microprocesador Z80.
 
 El objetivo es avanzar paso a paso desde una configuración mínima de laboratorio —CPU, clock, reset y señales básicas— hasta una computadora funcional capaz de ejecutar programas, usar memoria RAM, comunicarse por puerto serie y, más adelante, interactuar con terminales, pantallas o periféricos externos.
