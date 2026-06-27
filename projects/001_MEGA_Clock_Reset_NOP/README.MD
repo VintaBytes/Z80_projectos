@@ -22,6 +22,8 @@ El valor `00h` corresponde a la instrucción `NOP` en el Z80. Por lo tanto, al m
 
 Esta etapa no busca ejecutar un programa útil, sino comprobar que la CPU está viva y que las señales básicas funcionan correctamente.
 
+<p align="center"><img src="./imagenes/img2.jpeg"></p>
+
 ---
 
 ## Componentes utilizados
