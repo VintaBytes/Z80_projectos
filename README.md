@@ -9,6 +9,10 @@ Repositorio personal de proyectos, pruebas y documentación para diseñar y cons
 
 El objetivo es avanzar paso a paso desde una configuración mínima de laboratorio —CPU, clock, reset y señales básicas— hasta una computadora funcional capaz de ejecutar programas, usar memoria RAM, comunicarse por puerto serie y, más adelante, interactuar con terminales, pantallas o periféricos externos.
 
+<p align="center">
+  <img src="./imagenes/img2.jpeg" width="300">
+  <img src="./imagenes/img1.jpeg" width="300">
+</p>
 
 ## Objetivo general del proyecto
 
